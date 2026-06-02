@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86a47cc1-b8a5-4d46-b0ea-7ca4f98f0005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="3BM9YJ2lPFer9JeNvz7OCP7AmBN" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resorces" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\selenium\Selenium-java\src\test\resorces" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.FirstTest">
+    <configuration name="FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-java-project" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.30" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.setup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-java-project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="setup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.FirstTest" />
+      <item itemvalue="TestNG.FirstTest.setup" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstTest" />
+        <item itemvalue="TestNG.FirstTest.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86a47cc1-b8a5-4d46-b0ea-7ca4f98f0005" name="Default Changelist" comment="" />
+      <created>1774288118015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774288118015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Custom_Plugin_Repositories" timestamp="1774293129682">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Custom_Plugin_Repositories/0.0.1366.768@0.0.1366.768" timestamp="1774293129682" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1775919775819">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1775919775819" />
+    <state x="417" y="145" key="EnvironmentVariablesDialog" timestamp="1775920054386">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="145" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1775920054386" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1779246962939">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1779246962939" />
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1776018592333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1776018592333" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1776018592333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1776018592333" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1776018592333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1776018592333" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1776018592333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1776018592333" />
+    <state x="213" y="39" key="Maven.ArtifactSearchDialog" timestamp="1775921000558">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="39" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1775921000558" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1775924693993">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1775924693993" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1779246799563">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1779246799563" />
+    <state x="339" y="174" width="672" height="677" key="run.anything.popup" timestamp="1775920515245">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="174" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1775920515245" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1775917179239">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1775917179239" />
+  </component>
+</project>
